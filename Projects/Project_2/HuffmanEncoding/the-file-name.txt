@@ -1,0 +1,1 @@
+java HuffmanCompressor "C:\\Users\\ellie\\Google Drive\\Freshman Year\\Data_Structures\\Projects\\Project_2\\HuffmanEncoding\\input\\modest_proposal.txt" "C:\\Users\\ellie\\Google Drive\\Freshman Year\\Data_Structures\\Projects\\Project_2\\HuffmanEncoding\\output\\proposalo.txt"
