@@ -1,4 +1,4 @@
-#Project 1: Phonebook Creator
+# Project 1: Phonebook Creator
 ### By: Ellie Fitzpatrick (eef33)
 ### 19 February, 2017
 
